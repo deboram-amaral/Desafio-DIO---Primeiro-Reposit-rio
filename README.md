@@ -1,17 +1,17 @@
-# GFT Start Woman Java :computer: :princess:
+# Decola Tech 3ª edição :computer: :princess:
 
-Olá! Nesse primeiro repositório criado como meu primeiro desafio no bootcamp da DIO, em parceria com a empresa GFT, irei compartilhar minhas anotações na medida que eu avanço nos conteúdos ofertados! O que estará escrito por aqui vem dos slides utilizados pelos professores junto com anotações pessoais. 
+Olá! Nesse primeiro repositório criado como meu primeiro desafio no bootcamp da DIO, em parceria com a empresa Avanade, irei compartilhar minhas anotações na medida que eu avanço nos conteúdos ofertados! O que conteúdo presente aqui vem dos slides utilizados pelos professores e professoras junto com anotações pessoais. 
 
 Resumo do meu progresso:
 
 
 
-### Módulo I
+## Módulo I
 
-- Boas-vindas ao Bootcamp GFT Start Woman Java :heavy_check_mark:
-- Aula Inaugural - GFT Start Woman Jana  :heavy_check_mark:
-- Lógica de Programação Essencial :heavy_check_mark:
-- Aprenda o que são Estrutura de Dados e Algoritmos :heavy_check_mark:
+- Boas-vindas ao Decola Tech 3ª edição :heavy_check_mark:
+- Aula Inaugural - Decola Tech 3ª edição (17/05)
+- Tudo que você precisa saber para ser protagonista em um Bootcamp DIO :heavy_check_mark:
+- Introdução à programação e pensamento computacional :heavy_check_mark:
 - Introdução ao Git e ao GitHub :heavy_check_mark:
 - DESAFIO DE PROJETO: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso :heavy_check_mark:
 
